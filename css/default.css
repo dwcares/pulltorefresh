@@ -1,0 +1,86 @@
+﻿body {
+    display: -ms-grid;
+    -ms-grid-rows: 1fr;
+    -ms-grid-columns: 1fr;
+    background-color: lightblue;
+}
+
+.outerScroller {
+    overflow-y: auto;
+    -ms-grid-column-align: center;
+    width: 400px;
+    height: 100%;
+    -ms-scroll-snap-y: mandatory snapList(80px);
+    -ms-overflow-style: none;
+}
+
+    .outerScroller.loading {
+        -ms-scroll-snap-y: proximity snapList(80px);
+    }
+
+
+.innerScroller {
+    color: lightblue;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+.listItem {
+    font-size: 20pt;
+    font-family: 'Segoe UI Light';
+    padding: 40px 20px 0px 55px;
+    background-color: white;
+}
+
+.pullBox {
+    width: 400px;
+    height: 80px;
+    font-size: 20pt;
+    font-family: 'Segoe UI Light';
+    display: -ms-grid;
+    -ms-grid-rows: 80px;
+    -ms-grid-columns: 45px 1fr;
+}
+
+progress.pullProgress {
+    -ms-grid-column: 1;
+    -ms-grid-row-align: center;
+    -ms-grid-column-align: center;
+
+    color: white;
+    opacity: 0;
+    width: 35px;
+    height: 35px;
+}
+
+.loading .pullProgress {
+    transition: opacity ease 0.3s;
+    opacity: 1;
+}
+
+.pullArrow {
+    -ms-grid-row-align: center;
+    -ms-grid-column: 1;
+
+    font-family: 'Segoe UI Symbol';
+    z-index: -1;
+    transform-origin: center center;
+    transform: rotate(90deg);
+    width: 45px;
+    height: 45px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('/images/arrow.svg');
+}
+
+.loading .pullArrow {
+    opacity: 0;
+}
+
+.pullLabel {
+    -ms-grid-row-align: center;
+    -ms-grid-column: 2;
+    margin-left: 10px;
+}

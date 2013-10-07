@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45"
+   height="45"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="arrow.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="30.655819"
+     inkscape:cy="9.013789"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1536"
+     inkscape:window-height="803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-194.092,-440.93484)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="170.71577"
+       y="467.98892"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="170.71577"
+         y="467.98892" /></text>
+    <g
+       id="g3031"
+       transform="matrix(2.4370259,0,0,2.4370259,197.53455,442.43942)"
+       style="fill:#ffffff">
+      <g
+         style="font-size:11.85000038px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Segoe UI Symbol"
+         id="text3033">
+        <path
+           d="m 14.401685,8.623861 c -1.4e-5,0.5979039 -0.07909,1.174588 -0.237231,1.730054 -0.158169,0.55547 -0.381899,1.077186 -0.671192,1.565149 -0.28932,0.487964 -0.634559,0.932531 -1.035718,1.333703 -0.401184,0.401171 -0.845751,0.74641 -1.333703,1.035718 -0.487975,0.289305 -1.010655,0.513035 -1.5680424,0.671192 -0.5574064,0.158152 -1.1350548,0.237229 -1.7329468,0.237231 -0.5979076,-2e-6 -1.175556,-0.07908 -1.7329468,-0.237231 C 5.532502,14.80152 5.0098218,14.579719 4.5218629,14.294271 4.033895,14.008821 3.5883632,13.665511 3.1852662,13.26434 2.7821628,12.863168 2.4359596,12.4186 2.1466553,11.930636 1.8573468,11.442673 1.6336166,10.919993 1.4754639,10.362594 1.3173083,9.8051994 1.2382312,9.2256224 1.2382325,8.623861 1.2382312,8.0259653 1.3173083,7.448317 1.4754639,6.8909142 1.6336166,6.3335231 1.8573468,5.810843 2.1466553,5.3228721 2.4359596,4.8349162 2.7821628,4.3893844 3.1852662,3.9862754 3.5883632,3.583184 4.033895,3.2369807 4.5218629,2.9476645 5.0098218,2.658368 5.532502,2.4336734 6.089905,2.27358 6.6472958,2.1135077 7.2249442,2.0334662 7.8228518,2.0334555 c 0.597892,1.07e-5 1.1755404,0.079088 1.7329468,0.2372315 0.5573874,0.1581646 1.0800674,0.3809305 1.5680424,0.6682983 0.487952,0.2873875 0.932519,0.6326264 1.333703,1.0357178 0.401159,0.403109 0.746398,0.8486408 1.035718,1.3365967 0.289293,0.4879709 0.513023,1.0116154 0.671192,1.5709352 0.15814,0.5593315 0.237217,1.1398729 0.237231,1.741626 z m -5.5662599,-2.9393556 -2.0135743,0 2.1177247,2.1697999 -4.611548,0 0,1.5043946 4.611548,0 -2.1177247,2.1698001 2.0135743,0 2.7889159,-2.9104251 0,-0.023145 z"
+           style="font-size:11.85000038px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Segoe UI Symbol"
+           id="path2990"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="font-size:13.80000019px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Calibri"
+         id="text3035" />
+    </g>
+  </g>
+</svg>
